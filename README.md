@@ -1,4 +1,5 @@
 # 🤖 Social Media Sentiment Analysis AI Agent
+🔗 **Live demo:** [social-media-ai-agent-02.streamlit.app](https://social-media-ai-agent-02.streamlit.app/)
 
 ## 1. Project Title
 Social Media Sentiment Analysis AI Agent
